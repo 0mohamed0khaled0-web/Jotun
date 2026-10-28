@@ -1,0 +1,8 @@
+{
+  "name": "Remix نظام ديسباتش وحركة الشاحنات | Dispatch Yard",
+  "description": "نظام تفاعلي مرئي لإدارة حركة الشاحنات وسيارات النقل وأرقام اللوحات بين خارج وداخل المصنع بالسحب والإفلات والضغط",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
